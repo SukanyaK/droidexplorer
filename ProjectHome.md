@@ -1,0 +1,2 @@
+Android Device Manager - Currently Hosted @ http://de.codeplex.com
+![http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=de&DownloadId=81576&name=image.png](http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=de&DownloadId=81576&name=image.png)
